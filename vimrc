@@ -1,4 +1,4 @@
-"AUTHER : vishwvir
+"AUTHOR : vishwvir
 
 "Basic commands
 
